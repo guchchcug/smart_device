@@ -10,4 +10,4 @@ tags:
   - markup
 ---
 
-Nested and mixed lists are an interesting beast. It's a corner case to make sure that
+This project aims to hack a drone with RaspberryPi and Pixhark.
