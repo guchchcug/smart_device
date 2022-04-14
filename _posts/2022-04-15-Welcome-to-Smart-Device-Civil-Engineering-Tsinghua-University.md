@@ -1,6 +1,14 @@
 ---
-layout: post
-title:  "Welcome to Smart Devices!"
+title: "Welcome!"
+categories:
+  - Edge Case
+tags:
+  - content
+  - css
+  - edge case
+  - lists
+  - markup
 ---
+
 
 ## Welcome to our smart device blog!
