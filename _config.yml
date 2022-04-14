@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Chen Gu"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/ChenGu.jpg"
   bio              : "We build cool devices."
   location         : "Tsinghua University"
   email            : "guchch@mit.edu"
