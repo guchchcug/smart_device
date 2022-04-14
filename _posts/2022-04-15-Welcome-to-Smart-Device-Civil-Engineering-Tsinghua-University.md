@@ -1,13 +1,6 @@
 ---
-title: "Welcome"
-categories:
-  - content
-tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+layout: post
+title:  "Welcome to Jekyll!"
 ---
 
 ## Welcome to our smart device blog!
