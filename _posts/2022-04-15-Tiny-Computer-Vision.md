@@ -1,8 +1,7 @@
 ---
 title: "Tiny Computer Vision"
 header:
-  image_overlay: /assets/images/toyface.png
-  og_image: /assets/images/toyface.png
+  overlay_image: /assets/images/toyface.png
 categories:
   - Layout
   - Uncategorized
