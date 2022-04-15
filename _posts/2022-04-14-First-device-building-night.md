@@ -10,7 +10,7 @@ tags:
   - lists
   - markup
 header:
-  overlay_image: /assets/images/drone01.jpeg
+  image: /assets/images/drone01.jpeg
 ---
 
 This project aims to hack a drone with RaspberryPi and Pixhawk.
