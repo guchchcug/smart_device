@@ -2,6 +2,7 @@
 title: "Tiny Computer Vision"
 header:
   teaser: /assets/images/toyface.png
+  og_image: /assets/images/toyface.png
 categories:
   - Layout
   - Uncategorized
@@ -16,4 +17,5 @@ This post has a teaser image with an OpenGraph override.
 ```yaml
 header:
   teaser: /assets/images/page-header-teaser.png
+  og_image: /assets/images/page-header-og-image.png
 ```
