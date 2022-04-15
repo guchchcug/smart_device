@@ -1,5 +1,5 @@
 ---
-title: "Drone hacking"
+title: "Hack a drone"
 categories:
   - Edge Case
 tags:
@@ -10,4 +10,4 @@ tags:
   - markup
 ---
 
-This project aims to hack a drone with RaspberryPi and Pixhark.
+This project aims to hack a drone with RaspberryPi and Pixhawk.
