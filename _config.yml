@@ -21,12 +21,12 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Chen Gu"
 description              : "We build cool smart devices."
-url                      : "https://guchchcug.github.io"
-baseurl                  : "/blog"
-repository               : "guchchcug/smart_device"
-teaser                   : "/assets/images/bigtigertheking.JPG"
+url                      : #"https://guchchcug.github.io"
+baseurl                  : #"/blog"
+repository               : #"guchchcug/smart_device"
+teaser                   : #"/assets/images/bigtigertheking.JPG"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Smart Devices"
+masthead_title           : #"Smart Devices"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
