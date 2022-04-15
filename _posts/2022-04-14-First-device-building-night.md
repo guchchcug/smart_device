@@ -1,6 +1,5 @@
 ---
 title: "Hack a drone"
-layout: splash
 categories:
   - Edge Case
 tags:
