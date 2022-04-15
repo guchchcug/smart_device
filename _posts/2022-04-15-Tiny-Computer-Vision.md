@@ -12,7 +12,7 @@ tags:
   - layout
 ---
 
-This post has a teaser image with an OpenGraph override.
+This post shows how to use OpenCV to do real-time object detection.
 
 ```yaml
 header:
