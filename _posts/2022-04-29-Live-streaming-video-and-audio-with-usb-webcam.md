@@ -9,13 +9,15 @@ tags:
   - lists
   - markup
 header:
-  overlay_image: /assets/images/drone01.jpeg
+  overlay_image: /assets/images/webcam.heic
 ---
 
 This project aims to hack a drone with RaspberryPi and Pixhawk.
 
 
-```yaml
-header:
-  overlay_image: /assets/images/drone01.jpeg
+```bash
+$ cd ~
+$ git clone git://source.ffmpeg.org/ffmpeg.git
+$ cd ffmpeg
+$ sudo ./configure && sudo make && sudo make install
 ```
