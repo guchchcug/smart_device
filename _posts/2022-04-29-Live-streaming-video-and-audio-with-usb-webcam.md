@@ -12,7 +12,7 @@ header:
   overlay_image: /assets/images/webcam.jpg
 ---
 
-This project aims to hack a drone with RaspberryPi and Pixhawk.
+This project aims to live stream video and audi with a USB webcam.
 
 
 ```bash
