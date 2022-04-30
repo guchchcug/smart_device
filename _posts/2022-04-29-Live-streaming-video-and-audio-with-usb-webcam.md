@@ -46,3 +46,5 @@ $ ffplay -probesize 32 -analyzeduration 0 -sync ext udp://192.168.31.27:5000?pkt
 # or use vlc to play the video streaming
 $ vlc udp://@:5000?pkt_size=1316
 ```
+
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/ffplay_udp_works.jpeg.jpeg)
