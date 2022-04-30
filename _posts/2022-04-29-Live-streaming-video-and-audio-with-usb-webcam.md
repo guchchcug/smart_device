@@ -31,9 +31,7 @@ $ v4l2-ctl --list-devices
 $ arecord -L
 ```
 
-```markdown
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/v4l2-list_devices.jpeg){% endraw %}
-```
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/v4l2-list_devices.jpeg.jpeg)
 
 ![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/arecord-L.jpeg)
 
