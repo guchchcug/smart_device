@@ -24,7 +24,7 @@ $ sudo ./configure && sudo make && sudo make install
 ```
 Then, we need to find the name of devices.
 
-```
+```bash
 # show available devices
 $ v4l2-ctl --list-devices
 # show available sound cards
@@ -32,7 +32,7 @@ $ arecord -L
 ```
 
 Finally, we are able to live stream both video and audio of a USB webcam.
-```
+```bash
 # stream both audio (plughw:2,0, or sysdefault:CARD=WEBCAM) and video (/dev/video1) via UDP
 $ ffmpeg -f alsa -thread_queue_size 1024 -ar 44100 -ac 1 -i plughw:2,0 \
 -f v4l2 -thread_queue_size 16 -s 640x480 -i /dev/video1 \
