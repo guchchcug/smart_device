@@ -22,7 +22,7 @@ $ git clone git://source.ffmpeg.org/ffmpeg.git
 $ cd ffmpeg
 $ sudo ./configure && sudo make && sudo make install
 ```
-Then, we need to find the name of devices.
+Then, we can find the name of devices.
 
 ```bash
 # show available devices
@@ -30,6 +30,12 @@ $ v4l2-ctl --list-devices
 # show available sound cards
 $ arecord -L
 ```
+
+```markdown
+{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/v4l2-list_devices.jpeg){% endraw %}
+```
+
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/arecord-L.jpeg)
 
 Finally, we are able to live stream both video and audio of a USB webcam.
 ```bash
