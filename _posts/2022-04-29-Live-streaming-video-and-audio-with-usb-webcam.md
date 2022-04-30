@@ -31,7 +31,7 @@ $ v4l2-ctl --list-devices
 $ arecord -L
 ```
 
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/v4l2-list_devices.jpeg.jpeg)
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/v4l2-list_devices.jpeg)
 
 ![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/arecord-L.jpeg)
 
@@ -47,4 +47,4 @@ $ ffplay -probesize 32 -analyzeduration 0 -sync ext udp://192.168.31.27:5000?pkt
 $ vlc udp://@:5000?pkt_size=1316
 ```
 
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/ffplay_udp_works.jpeg.jpeg)
+![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/ffplay_udp_works.jpeg)
